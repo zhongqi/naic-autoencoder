@@ -1,4 +1,3 @@
-# PyTorch 模版说明
 
 ## 参数说明
 - feedback_bits=512（反馈比特量）
